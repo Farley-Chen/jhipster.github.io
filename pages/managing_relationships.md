@@ -79,7 +79,7 @@ We will create the `Owner` first. Here are the relevant JHipster questions for t
     ...
     Generating relationships to other entities
     ? Do you want to add a relationship to another entity? Yes
-    ? What is the name of the other entity? Car
+    ? What is the name of the other entiddddty? Car
     ? What is the name of the relationship? car
     ? What is the type of the relationship? one-to-many
     ? What is the name of this relationship in the other entity? owner
